@@ -1,9 +1,8 @@
 # Account Takeover via Weak Isolation on a Dual-Use Endpoint
 
-**Vulnerability class:** Broken access control / business-logic flaw (CWE-639, CWE-840)
-**Target:** PortSwigger Web Security Academy, *Weak isolation on a dual-use endpoint* (a
-deliberately-vulnerable lab)
-**Impact:** Full account takeover of any user, including the administrator.
+- **Vulnerability class:** Broken access control / business-logic flaw (CWE-639, CWE-840)
+- **Target:** PortSwigger Web Security Academy, *Weak isolation on a dual-use endpoint* (a deliberately-vulnerable lab)
+- **Impact:** Full account takeover of any user, including the administrator.
 
 ---
 
