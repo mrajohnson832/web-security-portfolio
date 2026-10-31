@@ -34,20 +34,20 @@ the non-obvious insight, and a **reusable testing rule** I took away from it. Th
 - Authentication (full topic)
 - Business Logic (in progress)
 
-### 🛠️ Tooling - `ajsecx`, a pentest assistant *(architecture case study)*
-I designed and built a local-first, **RAG-grounded pentest assistant** (FastAPI, SQLite,
+### 🛠️ Tooling: `ajsecx`, a pentest assistant (design case study)
+I designed and directed a local-first, **RAG-grounded pentest assistant** (FastAPI, SQLite,
 local LLM, file-based retrieval) that guides engagements through curated playbooks, orchestrates
-CLI tools, and drafts findings reports. A deliberate design choice: the LLM is scoped to
+CLI tools, and drafts findings reports. A deliberate security-design choice: the LLM is scoped to
 **source-grounded advisory and report-drafting only, never the bug-finder**, to prevent
 vulnerability hallucination.
+→ [ajsecx (design case study)](https://github.com/mrajohnson832/ajsecx). *Source kept private;
+the repo documents the design and reasoning, not the code.*
 
-*Architecture write-up coming; source kept private as it contains tooling not meant for public
-release.*
-
-### 🧪 Home lab - infrastructure hardening *(coming)*
-A small-business Windows domain lab (Active Directory, enforced MFA, SIEM detections, backup
-strategy, security-program documentation) demonstrating defensive hardening alongside the
-offensive work.
+### 🧪 Home lab: infrastructure hardening *(in progress)*
+A small-business Windows domain lab (Active Directory, hardening to a CIS baseline, SIEM
+detections, backups) that I build, harden, attack, and detect, demonstrating defensive work
+alongside the offensive.
+→ [windows-domain-lab](https://github.com/mrajohnson832/windows-domain-lab).
 
 ---
 
@@ -57,6 +57,4 @@ third-party system. Handling scope and sensitive data responsibly is part of the
 won't find anything in here that shouldn't be public.
 
 ## Contact
-- LinkedIn: *https://www.linkedin.com/in/anthony-johnson-767813256/*
-- Bug bounty: **@ajsecx** on HackerOne
-- Email: *mr.ajohnson832@gmail.com*
+[LinkedIn](https://www.linkedin.com/in/anthony-johnson-767813256/) | [Credly](https://www.credly.com/users/ajohnson832/badges/credly) | [Email](mailto:mr.ajohnson832@gmail.com)
