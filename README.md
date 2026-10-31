@@ -32,7 +32,7 @@ the non-obvious insight, and a **reusable testing rule** I took away from it. Th
 - Authentication (full topic)
 - Business Logic (in progress)
 
-### 🛠️ Tooling — `ajsecx`, a pentest assistant *(architecture case study)*
+### 🛠️ Tooling - `ajsecx`, a pentest assistant *(architecture case study)*
 I designed and built a local-first, **RAG-grounded pentest assistant** (FastAPI, SQLite,
 local LLM, file-based retrieval) that guides engagements through curated playbooks, orchestrates
 CLI tools, and drafts findings reports. A deliberate design choice: the LLM is scoped to
