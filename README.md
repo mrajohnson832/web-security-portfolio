@@ -25,6 +25,8 @@ the non-obvious insight, and a **reusable testing rule** I took away from it. Th
 *think* about finding bugs, not just that I completed a lab.
 
 - [Account Takeover via Weak Isolation on a Dual-Use Endpoint](writeups/account-takeover-dual-use-endpoint.md)
+- [Account Takeover by Chaining Stored XSS, Cookie Theft, and Offline Password Cracking](writeups/account-takeover-xss-to-offline-cracking.md)
+- [Privilege Escalation via a Flawed Login State Machine](writeups/privilege-escalation-flawed-login-state-machine.md)
 - *(more added as I write them up)*
 
 **Topics covered to date:** 
