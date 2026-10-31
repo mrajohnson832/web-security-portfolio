@@ -55,6 +55,6 @@ third-party system. Handling scope and sensitive data responsibly is part of the
 won't find anything in here that shouldn't be public.
 
 ## Contact
-- LinkedIn: *[(https://www.linkedin.com/in/anthony-johnson-767813256/)]*
+- LinkedIn: *https://www.linkedin.com/in/anthony-johnson-767813256/*
 - Bug bounty: **@ajsecx** on HackerOne
-- Email: *[mr.ajohnson832@gmail.com]*
+- Email: *mr.ajohnson832@gmail.com*
